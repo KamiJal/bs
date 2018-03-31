@@ -1,0 +1,10 @@
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\WpfBookShop.DAL.dll.config
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\WpfBookShop.DAL.dll
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\WpfBookShop.DAL.pdb
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\EntityFramework.dll
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\EntityFramework.xml
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\obj\Debug\WpfBookShop.DAL.csprojResolveAssemblyReference.cache
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\obj\Debug\WpfBookShop.DAL.dll
+D:\_ЦЗА\BookShop\WpfBookShop\WpfBookShop.DAL\obj\Debug\WpfBookShop.DAL.pdb
